@@ -4,5 +4,5 @@ spring:
 management:
   endpoints:    web:      exposure:        include:        - '*'
 greeting-service:
-  greeting:  "Cia"
+  greeting:  "Pronto"
   default-value: "Mondo"
